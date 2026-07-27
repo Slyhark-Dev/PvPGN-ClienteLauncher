@@ -18,7 +18,7 @@ Herramienta de utilidades para el cliente de mapas de Warcraft III sobre PvPGN.
 5. Click en **Parchear ejecutable**.
 6. Se genera automáticamente un backup (`.bak`) del archivo original antes de aplicar el cambio.
 
-## Archivos que se agregaran directamente a la carpeta :
+## Archivos que se agregaran directamente a la carpeta:
 
 - w3g.exe (fixeado con nueva ip/dominio)
 - zlib1.dll
