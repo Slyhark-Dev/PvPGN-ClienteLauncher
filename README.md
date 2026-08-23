@@ -1,6 +1,8 @@
 # Editor-launcherPvPGN
 
 Herramienta de utilidades para el cliente de mapas de Warcraft III sobre PvPGN.
+![Python](https://img.shields.io/badge/powered%20by-Python-3776AB)
+![JSON](https://img.shields.io/badge/config-JSON-lightgrey)
 
 ## Contenido
 
