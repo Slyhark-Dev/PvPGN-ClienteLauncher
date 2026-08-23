@@ -1,11 +1,11 @@
 # Editor-launcherPvPGN
 
-Herramienta de utilidades para el cliente de mapas de Warcraft III sobre PvPGN.
+Herramienta de utilidades para el cliente de mapas de Warcraft III sobre PvPGN.                              
 ![Python](https://img.shields.io/badge/powered%20by-Python-3776AB)
 ![JSON](https://img.shields.io/badge/config-JSON-lightgrey)
+![w3x](https://img.shields.io/badge/PvPGN-lua%201.27b-success)
 
 ## Contenido
-
 - **`Release/w3g.exe`** — Cliente/loader principal.
 - **`Release/zlib1.dll`** — Dependencia de compresión requerida por el ejecutable.
 - **`patch_ip.exe`** — Utilidad con interfaz gráfica para editar el dominio/IP del servidor embebido en un ejecutable compilado, sin necesidad de recompilar el código fuente.
