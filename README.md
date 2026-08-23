@@ -3,7 +3,8 @@
 Herramienta de utilidades para el cliente de mapas de Warcraft III sobre PvPGN.                              
 ![Python](https://img.shields.io/badge/powered%20by-Python-3776AB)
 ![JSON](https://img.shields.io/badge/config-JSON-lightgrey)
-![LUA](https://img.shields.io/badge/PvPGN-lua%201.27b-orange)
+![Lua](https://img.shields.io/badge/powered%20by-Lua-red)
+![REG](https://img.shields.io/badge/Regedit-Config-blue?logo=windows)
 
 ## Contenido
 - **`Release/w3g.exe`** — Cliente/loader principal.
