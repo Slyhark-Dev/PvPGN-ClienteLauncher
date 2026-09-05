@@ -13,7 +13,7 @@ Herramienta de utilidades para el cliente de mapas de Warcraft III sobre PvPGN.
 ## Uso de patch_ip.exe
 
 1. Ejecutar `patch_ip.exe`.
-2. Click en **Buscar...** y seleccionar el `w3g.exe` blue launcher que traer este repositorio modificado.
+2. Click en **Buscar...** y seleccionar el `w3g.exe` que traer este repositorio modificado.
 3. La herramienta escanea el binario y muestra automáticamente el dominio/IP detectado (solo lectura).
 4. Escribir el nuevo dominio/IP en el campo correspondiente.
    - Debe tener **igual o menor cantidad de caracteres** que el original (el exceso no cabe sin corromper el binario).
